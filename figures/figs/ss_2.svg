@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="681" id="plotting-area" style="height: 681px; width: 1364px;" width="1364" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <style>
+  svg{display:block;min-width:100%;width:100%;min-height:100%;}circle.node{stroke:#ccc;stroke-width:1px;opacity:1;fill:white;}circle.node.label{stroke:transparent;stroke-width:0;fill:white;}circle.outline_node{stroke-width:1px;fill:red;}circle.protein{fill:gray;fill-opacity:0.5;stroke-width:4;}circle.hidden_outline{stroke-width:0px;}line.link{stroke:#999;stroke-opacity:0.8;stroke-width:2;}line.basepair{stroke:red;}line.intermolecule{stroke:blue;}line.chain_chain{stroke-dasharray:3,3;}line.fake{stroke:green;}.transparent{fill:transparent;stroke-width:0;stroke-opacity:0;opacity:0;visibility:hidden;}.drag_line{stroke:#999;stroke-width:2;pointer-events:none;}.drag_line_hidden{stroke:#999;stroke-width:0;pointer-events:none;}.d3-tip{line-height:1;font-weight:bold;padding:6px;background:rgba(0,0,0,0.6);color:#fff;border-radius:4px;pointer-events:none;}text.node-label{font-weight:bold;font-family:Tahoma,Geneva,sans-serif;color:rgb(100,100,100);pointer-events:none;}text{pointer-events:none;}g.gnode{}circle.outline_node.selected{visibility:visible;}circle.outline_node{visibility:hidden;}.brush.extent{fill-opacity:.1;stroke:#fff;shape-rendering:crispEdges;}.noselect{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+ </style>
+ <g>
+  <rect fill="white" height="681" id="zrect" stroke="transparent" stroke-width="1" width="1364"/>
+  <g class="brush" style="pointer-events: all;">
+   <rect class="background" height="681" style="visibility: hidden; cursor: auto;" width="1364" x="0" y="0"/>
+   <rect class="extent" height="0" style="cursor: move;" width="0" x="0" y="0"/>
+   <g class="resize n" style="cursor: ns-resize; display: none;" transform="translate(0,0)">
+    <rect height="6" style="visibility: hidden;" width="0" y="-3"/>
+   </g>
+   <g class="resize e" style="cursor: ew-resize; display: none;" transform="translate(0,0)">
+    <rect height="0" style="visibility: hidden;" width="6" x="-3"/>
+   </g>
+   <g class="resize s" style="cursor: ns-resize; display: none;" transform="translate(0,0)">
+    <rect height="6" style="visibility: hidden;" width="0" y="-3"/>
+   </g>
+   <g class="resize w" style="cursor: ew-resize; display: none;" transform="translate(0,0)">
+    <rect height="0" style="visibility: hidden;" width="6" x="-3"/>
+   </g>
+   <g class="resize nw" style="cursor: nwse-resize; display: none;" transform="translate(0,0)">
+    <rect height="6" style="visibility: hidden;" width="6" x="-3" y="-3"/>
+   </g>
+   <g class="resize ne" style="cursor: nesw-resize; display: none;" transform="translate(0,0)">
+    <rect height="6" style="visibility: hidden;" width="6" x="-3" y="-3"/>
+   </g>
+   <g class="resize se" style="cursor: nwse-resize; display: none;" transform="translate(0,0)">
+    <rect height="6" style="visibility: hidden;" width="6" x="-3" y="-3"/>
+   </g>
+   <g class="resize sw" style="cursor: nesw-resize; display: none;" transform="translate(0,0)">
+    <rect height="6" style="visibility: hidden;" width="6" x="-3" y="-3"/>
+   </g>
+  </g>
+  <g transform="translate(476.2213369925394,252.7710349641237) scale(1.2359659364625282)">
+   <g>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="134.44870265663343" x2="125.85933096679312" y1="239.42673571126258" y2="252.01043830635257">
+     <title>
+      304f655f-3441-40ee-b08c-ec5143640228
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="125.85933096679312" x2="111.21584328160044" y1="252.01043830635257" y2="257.1105797802672">
+     <title>
+      e6b75a8c-70a2-41c8-886f-f875b17b4c41
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="111.21584328160044" x2="95.3711099774576" y1="257.1105797802672" y2="256.8975300641554">
+     <title>
+      4ea76cf7-8772-45b3-bdff-64cfa426e95c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="95.3711099774576" x2="79.39530164613613" y1="256.8975300641554" y2="254.2533921019955">
+     <title>
+      3f825241-7a69-4beb-b40a-a843833b8856
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="79.39530164613613" x2="63.2678892487689" y1="254.2533921019955" y2="250.4995407623044">
+     <title>
+      21514e20-3f41-45fd-a84f-8c2c97dafedc
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="47.65328492043966" x2="37.02887694392891" y1="247.2715227765753" y2="236.28449969778868">
+     <title>
+      5efd3751-e5de-47f6-89f0-2c00001b6002
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="63.2678892487689" x2="47.65328492043966" y1="250.4995407623044" y2="247.2715227765753">
+     <title>
+      b820d097-d50e-49d8-8b9e-cee8e6148a04
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="36.53265068915125" x2="26.091191478215347" y1="257.8454376773116" y2="247.0222096304821">
+     <title>
+      582cea54-5e9f-484b-b884-41e6b306f3a9
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="47.65328492043966" x2="36.53265068915125" y1="247.2715227765753" y2="257.8454376773116">
+     <title>
+      519c1d26-dcd9-49f3-9535-3ea4be4e5694
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="25.45430577096097" x2="14.8927680449502" y1="268.61593445176874" y2="257.7053928474214">
+     <title>
+      5e886109-00a9-461f-bd36-c44af8541cec
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="36.53265068915125" x2="25.45430577096097" y1="257.8454376773116" y2="268.61593445176874">
+     <title>
+      456d49ff-9750-4e94-8296-68217bdab175
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="25.45430577096097" x2="21.36837198681903" y1="268.61593445176874" y2="283.2127502396348">
+     <title>
+      2d1410c4-6952-474b-8755-79730a1c41d5
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="21.36837198681903" x2="6.778806826251328" y1="283.2127502396348" y2="286.866944064228">
+     <title>
+      1c751778-b155-4809-b97c-352c6be606a5
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="6.778806826251328" x2="-3.8119473588103334" y1="286.866944064228" y2="276.03194587314835">
+     <title>
+      a50628e0-6617-4755-b36a-ae33bb814678
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="-3.8119473588103334" x2="0.09949575695048224" y1="276.03194587314835" y2="261.5014276656886">
+     <title>
+      682312ce-783f-4658-b44e-febb3593d639
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="14.8927680449502" x2="25.45430577096097" y1="257.7053928474214" y2="268.61593445176874">
+     <title>
+      70351f8a-5e19-4292-ab5e-46cc6fb9f589
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="0.09949575695048224" x2="14.8927680449502" y1="261.5014276656886" y2="257.7053928474214">
+     <title>
+      e248454e-1000-4589-b986-8775f17ddf23
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="26.091191478215347" x2="36.53265068915125" y1="247.0222096304821" y2="257.8454376773116">
+     <title>
+      2f3261a4-cfe8-4909-b701-66174bd356b6
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="14.8927680449502" x2="26.091191478215347" y1="257.7053928474214" y2="247.0222096304821">
+     <title>
+      10c3742b-6ca8-41dd-b164-0d319d6c7b8e
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="37.02887694392891" x2="47.65328492043966" y1="236.28449969778868" y2="247.2715227765753">
+     <title>
+      447f497f-02b9-475d-a44e-b62f537584b5
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="26.091191478215347" x2="37.02887694392891" y1="247.0222096304821" y2="236.28449969778868">
+     <title>
+      db9aaa81-a5d9-4250-aae0-2555d0429e8a
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="37.02887694392891" x2="35.28842800551696" y1="236.28449969778868" y2="219.70560291983168">
+     <title>
+      a5a7306a-6184-42ad-b2b7-44690860db56
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="35.28842800551696" x2="33.55501374949794" y1="219.70560291983168" y2="203.27853820626925">
+     <title>
+      4722fd86-8318-4dd9-8d3b-5429673042bb
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="33.55501374949794" x2="32.74048652021415" y1="203.27853820626925" y2="187.04724660217138">
+     <title>
+      0058cda8-2888-422d-afaf-6739764b8292
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="32.74048652021415" x2="35.546602136747296" y1="187.04724660217138" y2="171.4648634575841">
+     <title>
+      9504b376-243d-4650-b0e8-68b3edd6e8a1
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="35.546602136747296" x2="47.42646303050037" y1="171.4648634575841" y2="160.96137503628947">
+     <title>
+      fffa3232-5435-464d-b40b-f8fd0694916b
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="47.42646303050037" x2="62.818821809665934" y1="160.96137503628947" y2="156.82738288868788">
+     <title>
+      521faf45-4f20-4223-abbf-c374bb1730f5
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="62.818821809665934" x2="79.08762510588399" y1="156.82738288868788" y2="156.8781683058305">
+     <title>
+      487e2ab6-f276-4dde-aafa-61f90088950a
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="79.08762510588399" x2="95.51732828499756" y1="156.8781683058305" y2="159.44562762812126">
+     <title>
+      08cf7a5b-094f-4f36-8cae-c2a25c82d77e
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="111.27954354328799" x2="122.12035490310843" y1="162.09921125529465" y2="172.83440046601595">
+     <title>
+      30871b2a-8db1-499d-9370-601395ba7324
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="95.51732828499756" x2="111.27954354328799" y1="159.44562762812126" y2="162.09921125529465">
+     <title>
+      dfa506c4-6d56-4a57-b750-854eb20158f4
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="122.22312920364196" x2="132.87836660431267" y1="151.29297808711652" y2="161.95338867595413">
+     <title>
+      d9536b05-936a-4db0-a479-c3b7ce9d4bb0
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="111.27954354328799" x2="122.22312920364196" y1="162.09921125529465" y2="151.29297808711652">
+     <title>
+      fb862deb-d900-45da-8e2e-2e2905c3025c
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="133.00345925997559" x2="143.8384994634266" y1="140.43996291779027" y2="150.81820831867805">
+     <title>
+      9a73572e-aac7-4b9a-a17a-7202b7dbc9bd
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="122.22312920364196" x2="133.00345925997559" y1="151.29297808711652" y2="140.43996291779027">
+     <title>
+      54fbebb7-eaa6-4476-b679-1647ba31471f
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="143.4280705376012" x2="154.55410170315102" y1="129.2789971823192" y2="139.1260993855922">
+     <title>
+      d5653fe1-2287-45cc-9862-ba8259282217
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="133.00345925997559" x2="143.4280705376012" y1="140.43996291779027" y2="129.2789971823192">
+     <title>
+      1e28f873-e328-4493-a7f2-15e845e32014
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="153.06144372606465" x2="165.09423941507188" y1="117.47465294899281" y2="126.58763159545862">
+     <title>
+      81d0a5cb-3c99-42eb-a2a5-edebeb1a8c01
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="143.4280705376012" x2="153.06144372606465" y1="129.2789971823192" y2="117.47465294899281">
+     <title>
+      42fc0703-6fd6-4e6f-b99b-1f904a9851bc
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="153.06144372606465" x2="145.80622156444437" y1="117.47465294899281" y2="104.13502768030533">
+     <title>
+      b0396596-be32-4567-b062-19f890ead7ca
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="145.80622156444437" x2="145.25278952392546" y1="104.13502768030533" y2="89.23260661084883">
+     <title>
+      64703340-7b61-4e29-859b-eb8ea770215a
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="145.25278952392546" x2="151.15911798097247" y1="89.23260661084883" y2="75.47981493919752">
+     <title>
+      8375a579-4f21-4137-9902-021aebabb00e
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="151.15911798097247" x2="162.54659972618546" y1="75.47981493919752" y2="65.70123143176947">
+     <title>
+      92264cd2-2629-4cff-a2a2-b129cea82be4
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="162.54659972618546" x2="176.8013802974276" y1="65.70123143176947" y2="61.77926337386535">
+     <title>
+      e44682de-f4f1-49a5-9448-4a7c0d0dfd6f
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="191.7015381794913" x2="203.8989590345975" y1="64.68876871383337" y2="73.54010714608289">
+     <title>
+      72713a62-f3f8-466f-8b19-36f9faea6dc9
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="176.8013802974276" x2="191.7015381794913" y1="61.77926337386535" y2="64.68876871383337">
+     <title>
+      5ff2be99-09a7-4624-b1dc-6af4ead84430
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="202.4090547052504" x2="213.21439370542961" y1="51.746807083804825" y2="61.25031314604506">
+     <title>
+      99c26640-7bd2-4e17-9b5f-c32c21b21ba3
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="191.7015381794913" x2="202.4090547052504" y1="64.68876871383337" y2="51.746807083804825">
+     <title>
+      b45572f2-7ecb-4bf2-8610-2a0b9f172ab3
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="215.37941404714155" x2="224.00805552821203" y1="39.7212803346689" y2="51.507353529154436">
+     <title>
+      f27646e0-96e2-423f-a92c-4462996e834f
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="202.4090547052504" x2="215.37941404714155" y1="51.746807083804825" y2="39.7212803346689">
+     <title>
+      962a85a9-ecc7-4062-8f00-b2a3a427f7f6
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="231.53721108927306" x2="235.56856566459018" y1="30.559002847846955" y2="44.91880242525644">
+     <title>
+      7549604f-b314-492e-80ce-23b3a0fbca97
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="215.37941404714155" x2="231.53721108927306" y1="39.7212803346689" y2="30.559002847846955">
+     <title>
+      8db975b3-3f0b-4ca9-b7a7-da80a3fb7ed2
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="231.53721108927306" x2="233.11455595884598" y1="30.559002847846955" y2="15.107576230696122">
+     <title>
+      419503b9-1757-4809-9340-ddc7aa228d35
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="233.11455595884598" x2="239.4162996539316" y1="15.107576230696122" y2="0.7327397043366994">
+     <title>
+      115e5d99-9b17-4cdc-ae13-d1a9f88991ac
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="239.4162996539316" x2="248.74942883573848" y1="0.7327397043366994" y2="-10.622350285732054">
+     <title>
+      e6a943fb-070f-4be4-b7ed-53d4687efc47
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="261.772093884498" x2="276.41717321865843" y1="-19.33492787641698" y2="-22.287696606989496">
+     <title>
+      e5031f1c-31d0-4ca7-87e4-ec67d8819d81
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="248.74942883573848" x2="261.772093884498" y1="-10.622350285732054" y2="-19.33492787641698">
+     <title>
+      5512ec78-3396-4323-b826-f7943f08b1be
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="263.02726912515016" x2="276.85431714707784" y1="-38.62300537363018" y2="-35.90601277432297">
+     <title>
+      c8a45ebe-1833-43fc-b497-cc4a5ee13862
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="261.772093884498" x2="263.02726912515016" y1="-19.33492787641698" y2="-38.62300537363018">
+     <title>
+      39bbb36b-2e2c-4df3-881e-06a125192252
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="268.48193794873157" x2="281.70822113204855" y1="-55.624947373679326" y2="-49.600850760886395">
+     <title>
+      592a6572-bccd-4318-9a79-7cff040199ed
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="263.02726912515016" x2="268.48193794873157" y1="-38.62300537363018" y2="-55.624947373679326">
+     <title>
+      b0d42d8e-7970-48f5-a1b6-1a70c4e0db08
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="276.5869371276435" x2="288.9507156769518" y1="-70.4410312173087" y2="-62.81133981161667">
+     <title>
+      c8ef073d-e3e7-47c7-b868-2ae56d84e7b7
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="268.48193794873157" x2="276.5869371276435" y1="-55.624947373679326" y2="-70.4410312173087">
+     <title>
+      dd8dfb4e-fb2d-4e93-9ca1-eb4dd9081260
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="285.5397712941722" x2="297.58738145366556" y1="-84.0971502255504" y2="-75.89227195649862">
+     <title>
+      ea351e60-e24a-4888-8679-32cc770c9c78
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="276.5869371276435" x2="285.5397712941722" y1="-70.4410312173087" y2="-84.0971502255504">
+     <title>
+      bfbf742c-912b-4e3a-a582-00e2a34077f5
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="294.35911295921" x2="306.5944376179042" y1="-97.23287116758426" y2="-89.1877068719636">
+     <title>
+      42c10de6-9ace-4e5b-b650-418a4d273d4d
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="285.5397712941722" x2="294.35911295921" y1="-84.0971502255504" y2="-97.23287116758426">
+     <title>
+      2adcf248-25ef-42f4-ac89-745db0c95ff3
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="302.2104851515378" x2="315.39455046216057" y1="-110.34177985023146" y2="-102.81522546582268">
+     <title>
+      f7cee765-dc8c-4191-9590-6ee1b74a5193
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="294.35911295921" x2="302.2104851515378" y1="-97.23287116758426" y2="-110.34177985023146">
+     <title>
+      80c4a143-0c0b-49f6-a971-4773c9052d8b
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="302.2104851515378" x2="299.609253639097" y1="-110.34177985023146" y2="-125.39062628774535">
+     <title>
+      d76f23d3-f6e7-4ba6-902e-abdc7b1179f6
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="299.609253639097" x2="309.7079212030584" y1="-125.39062628774535" y2="-136.82282664848026">
+     <title>
+      adca368e-8a2c-488b-9459-12869e40d080
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="309.7079212030584" x2="324.9807011597553" y1="-136.82282664848026" y2="-135.71226115096331">
+     <title>
+      46818662-fb4b-4042-b95e-2c449de945e0
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="324.9807011597553" x2="333.76016008880435" y1="-135.71226115096331" y2="-123.27245682368076">
+     <title>
+      743cf4e3-edc1-4981-9ed0-622fe526873c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="333.76016008880435" x2="329.7578051616867" y1="-123.27245682368076" y2="-108.7505752136932">
+     <title>
+      0ca027e8-f032-450b-aaa1-3340a27d1197
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="315.39455046216057" x2="302.2104851515378" y1="-102.81522546582268" y2="-110.34177985023146">
+     <title>
+      49528dce-980d-40e4-81b9-a7c6ae6e5ea7
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="329.7578051616867" x2="315.39455046216057" y1="-108.7505752136932" y2="-102.81522546582268">
+     <title>
+      03711f61-8f34-4c76-814a-e5a0ed47167a
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="306.5944376179042" x2="294.35911295921" y1="-89.1877068719636" y2="-97.23287116758426">
+     <title>
+      2d76b9fb-ca59-4282-816c-6e5a61c4d473
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="315.39455046216057" x2="306.5944376179042" y1="-102.81522546582268" y2="-89.1877068719636">
+     <title>
+      e8884bdc-880d-4d5b-8372-3c7c1ce92c4f
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="297.58738145366556" x2="285.5397712941722" y1="-75.89227195649862" y2="-84.0971502255504">
+     <title>
+      3047ea3d-c08f-44c4-8efb-2b74cff6915c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="306.5944376179042" x2="297.58738145366556" y1="-89.1877068719636" y2="-75.89227195649862">
+     <title>
+      c78a64bd-09a8-4c23-97bc-760545ed1d50
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="288.9507156769518" x2="276.5869371276435" y1="-62.81133981161667" y2="-70.4410312173087">
+     <title>
+      d5b4c9f1-2e23-4ae1-b625-cef75c9e46d2
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="297.58738145366556" x2="288.9507156769518" y1="-75.89227195649862" y2="-62.81133981161667">
+     <title>
+      c3fef2df-f4c3-44c0-a378-17377484602a
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="281.70822113204855" x2="268.48193794873157" y1="-49.600850760886395" y2="-55.624947373679326">
+     <title>
+      582e0a62-ec5f-4f21-97f9-c9f66a1f2459
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="288.9507156769518" x2="281.70822113204855" y1="-62.81133981161667" y2="-49.600850760886395">
+     <title>
+      dc402f82-8cb8-4703-bac1-ff2f9df44569
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="276.85431714707784" x2="263.02726912515016" y1="-35.90601277432297" y2="-38.62300537363018">
+     <title>
+      ada7e053-7a66-4fcb-b511-eb1085faa4fb
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="281.70822113204855" x2="276.85431714707784" y1="-49.600850760886395" y2="-35.90601277432297">
+     <title>
+      3266ece0-b791-4b45-9bf2-a089fe617b66
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="276.41717321865843" x2="261.772093884498" y1="-22.287696606989496" y2="-19.33492787641698">
+     <title>
+      512ba2bd-5497-4d77-bed4-69b1f75fb3df
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="276.85431714707784" x2="276.41717321865843" y1="-35.90601277432297" y2="-22.287696606989496">
+     <title>
+      5a424924-852e-4946-a382-823b1bdf4fa5
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="276.41717321865843" x2="291.7673323190268" y1="-22.287696606989496" y2="-21.520633562284168">
+     <title>
+      5ab393db-8d85-4e91-8fa0-1c76d0c176d9
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="291.7673323190268" x2="305.8364712222658" y1="-21.520633562284168" y2="-16.927069903776907">
+     <title>
+      f33aaca7-bc3d-4c99-b0fc-734083e3d97e
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="305.8364712222658" x2="317.92007756871055" y1="-16.927069903776907" y2="-8.309019930020591">
+     <title>
+      9b90c58a-629b-4ac0-b8fc-f38b1fb56ff6
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="317.92007756871055" x2="327.1037293039242" y1="-8.309019930020591" y2="3.426187894834092">
+     <title>
+      20ba92e9-a714-4030-833c-9f19f67a6d76
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="327.1037293039242" x2="332.38401781319965" y1="3.426187894834092" y2="17.49534394791289">
+     <title>
+      7712c6b3-641f-4977-86a2-31bacb10e48c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="332.38401781319965" x2="332.41716419548624" y1="17.49534394791289" y2="32.34941147734971">
+     <title>
+      446c9e0a-83b1-4d14-8967-ee26fa3ee84f
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="332.41716419548624" x2="328.95673122223417" y1="32.34941147734971" y2="46.74801346069995">
+     <title>
+      1e877f04-f7ba-42f5-9b33-104390ce315f
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="328.95673122223417" x2="321.28968998259637" y1="46.74801346069995" y2="59.71804241472811">
+     <title>
+      787930a6-9e8c-4200-b099-4157e3ac3695
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="321.28968998259637" x2="310.07296494458853" y1="59.71804241472811" y2="69.55974016848864">
+     <title>
+      f0e352e2-4221-4b6d-a23a-5dd534921260
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="310.07296494458853" x2="296.4812019999953" y1="69.55974016848864" y2="75.7277541174023">
+     <title>
+      d96bd99f-80dc-444c-a13d-4d438884f72c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="296.4812019999953" x2="281.7382663550467" y1="75.7277541174023" y2="78.22980639947247">
+     <title>
+      917541c2-9dde-4326-b67b-74e4953b6270
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="281.7382663550467" x2="266.8603391171244" y1="78.22980639947247" y2="75.80797225348721">
+     <title>
+      173b2c8a-e3c2-410c-b8e1-6327714bffaf
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="266.8603391171244" x2="253.4283193665618" y1="75.80797225348721" y2="69.09100088645181">
+     <title>
+      e70ab6f5-5c65-40a3-a289-bb088fffd8b9
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="253.4283193665618" x2="242.5481983441439" y1="69.09100088645181" y2="58.51378188632702">
+     <title>
+      9d48c08f-b9a9-476d-aaa9-81f6f16098cb
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="235.56856566459018" x2="231.53721108927306" y1="44.91880242525644" y2="30.559002847846955">
+     <title>
+      5b68dbfd-4df4-455d-8673-a8c530d6c448
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="242.5481983441439" x2="235.56856566459018" y1="58.51378188632702" y2="44.91880242525644">
+     <title>
+      a3e92910-db25-4598-a0ae-a87a3d85e4f2
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="224.00805552821203" x2="215.37941404714155" y1="51.507353529154436" y2="39.7212803346689">
+     <title>
+      0ef8e37c-077e-4513-a3ed-8b82aeff3310
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="235.56856566459018" x2="224.00805552821203" y1="44.91880242525644" y2="51.507353529154436">
+     <title>
+      6c3ba249-045b-4780-8373-1a8ecd16cbce
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="213.21439370542961" x2="202.4090547052504" y1="61.25031314604506" y2="51.746807083804825">
+     <title>
+      e4e71750-b477-40a3-8ab7-fabc5b907d4a
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="224.00805552821203" x2="213.21439370542961" y1="51.507353529154436" y2="61.25031314604506">
+     <title>
+      9a54c94d-fd15-4ffb-a5ed-c2f504587a17
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="203.8989590345975" x2="191.7015381794913" y1="73.54010714608289" y2="64.68876871383337">
+     <title>
+      1ce07dff-b61a-4281-a632-33edbd3fe86e
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="213.21439370542961" x2="203.8989590345975" y1="61.25031314604506" y2="73.54010714608289">
+     <title>
+      5090d8ba-3595-41f9-b597-d917bcff0a6f
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="203.8989590345975" x2="211.14231572960068" y1="73.54010714608289" y2="87.11662103888335">
+     <title>
+      87b3e75c-a6cc-440e-ad33-57c665652908
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="211.14231572960068" x2="211.74345227650636" y1="87.11662103888335" y2="101.98927241256317">
+     <title>
+      0969d2a5-7736-4473-979f-fe0a2270b794
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="211.74345227650636" x2="205.77383777770515" y1="101.98927241256317" y2="115.87169480666458">
+     <title>
+      ac736a45-7dc7-485b-9e27-7053e9c6612c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="205.77383777770515" x2="194.3541589584127" y1="115.87169480666458" y2="125.62419553484759">
+     <title>
+      9f0a79ec-0286-49bb-ac31-d8aa9c221529
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="194.3541589584127" x2="180.07249396864913" y1="125.62419553484759" y2="129.44989071937084">
+     <title>
+      2346d1e4-7170-47fc-a1fc-0b7a83244aa5
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="165.09423941507188" x2="153.06144372606465" y1="126.58763159545862" y2="117.47465294899281">
+     <title>
+      07c00fae-5432-4b05-bf93-3287157ff269
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="180.07249396864913" x2="165.09423941507188" y1="129.44989071937084" y2="126.58763159545862">
+     <title>
+      1dd7a290-f5e5-4bd8-8c9f-0430d88fcbbb
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="154.55410170315102" x2="143.4280705376012" y1="139.1260993855922" y2="129.2789971823192">
+     <title>
+      ea9e182a-49cd-47c7-8239-7e56b113d65c
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="165.09423941507188" x2="154.55410170315102" y1="126.58763159545862" y2="139.1260993855922">
+     <title>
+      86f50721-e9d6-4b98-8100-1afa65c8a5af
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="143.8384994634266" x2="133.00345925997559" y1="150.81820831867805" y2="140.43996291779027">
+     <title>
+      b8a6dc49-9579-413f-8d8d-3c8ca81f6ae5
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="154.55410170315102" x2="143.8384994634266" y1="139.1260993855922" y2="150.81820831867805">
+     <title>
+      00c6ba80-5121-4c71-89d1-20da7114ba0b
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="132.87836660431267" x2="122.22312920364196" y1="161.95338867595413" y2="151.29297808711652">
+     <title>
+      0ca4721e-f0ae-4af4-811f-0304a586b976
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="143.8384994634266" x2="132.87836660431267" y1="150.81820831867805" y2="161.95338867595413">
+     <title>
+      55f7329f-7c79-4e80-8486-958a3cff2d55
+     </title>
+    </line>
+    <line class="link basepair" link_type="basepair" pointer-events="all" x1="122.12035490310843" x2="111.27954354328799" y1="172.83440046601595" y2="162.09921125529465">
+     <title>
+      b91882be-80b8-478c-9491-3d43a5dd639a
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="132.87836660431267" x2="122.12035490310843" y1="161.95338867595413" y2="172.83440046601595">
+     <title>
+      40b52445-5a06-4402-8c3c-ec50f5c6dcd1
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="122.12035490310843" x2="126.78286530304115" y1="172.83440046601595" y2="187.71531596025895">
+     <title>
+      3dd2e927-4f05-477e-b25c-847e862fa4a8
+     </title>
+    </line>
+    <line class="link backbone" link_type="backbone" pointer-events="all" x1="126.78286530304115" x2="134.78659975103648" y1="187.71531596025895" y2="200.78554564855278">
+     <title>
+      7eaede52-54a5-4ed3-a92b-98e222f34b2d
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="21.36837198681903" x2="30.041788597011664" y1="283.2127502396348" y2="295.8636701566982">
+     <title>
+      23fd1a23-199f-4758-9de6-9fdd714fc695
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="35.546602136747296" x2="25.299529614607657" y1="171.4648634575841" y2="160.15369745178265">
+     <title>
+      0f0de5d5-ca0f-4071-b503-f7cbc2c26a73
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="145.80622156444437" x2="131.88799114608494" y1="104.13502768030533" y2="97.53957504733987">
+     <title>
+      c9994e6e-7733-44dc-a035-d038475eb2ba
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="239.4162996539316" x2="225.46463362852154" y1="0.7327397043366994" y2="-6.203279760815343">
+     <title>
+      34929627-1c27-40bb-8a51-283ee999b479
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="309.7079212030584" x2="303.6858349942838" y1="-136.82282664848026" y2="-150.95549535754867">
+     <title>
+      2ef35ea0-6238-48f8-8994-d518d7722bdf
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="276.41717321865843" x2="287.8804160328598" y1="-22.287696606989496" y2="-32.11363728913473">
+     <title>
+      e3f66579-b38a-4182-91fb-3656d2098ff6
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="296.4812019999953" x2="290.79547947175587" y1="75.7277541174023" y2="61.94676440452818">
+     <title>
+      dea9a6f5-a73e-403e-90ca-7133c4295e6e
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="211.74345227650636" x2="222.60238593687424" y1="101.98927241256317" y2="113.22262914999786">
+     <title>
+      87a2dbcd-71a9-4b23-950f-b3e22da9abb1
+     </title>
+    </line>
+    <line class="link label_link" link_type="label_link" pointer-events="all" x1="134.78659975103648" x2="149.83607199305166" y1="200.78554564855278" y2="202.83147311976788">
+     <title>
+      a33a90b7-31ba-4b31-b2c1-018089954023
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="261.772093884498" x2="268.72630851243326" y1="-19.33492787641698" y2="-28.818051289187082">
+     <title>
+      2ad95faf-5517-4aff-8684-90af3fe98a91
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="261.772093884498" x2="276.85431714707784" y1="-19.33492787641698" y2="-35.90601277432297">
+     <title/>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="263.02726912515016" x2="268.72630851243326" y1="-38.62300537363018" y2="-28.818051289187082">
+     <title>
+      157e6469-dacf-42fc-9029-f5c52edb29dd
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.85431714707784" x2="268.72630851243326" y1="-35.90601277432297" y2="-28.818051289187082">
+     <title>
+      79b2603c-a7bd-43d9-b71b-b07868a3e476
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.41717321865843" x2="268.72630851243326" y1="-22.287696606989496" y2="-28.818051289187082">
+     <title>
+      631df758-9b9d-43d6-a4c2-9310a29b6d78
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="263.02726912515016" x2="271.67905981525803" y1="-38.62300537363018" y2="-45.2833782567275">
+     <title>
+      89f642d7-49b8-4511-b3ed-48e828170336
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="268.48193794873157" x2="271.67905981525803" y1="-55.624947373679326" y2="-45.2833782567275">
+     <title>
+      cbb6eaf0-561c-479c-b3b2-689ca0fef60a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="281.70822113204855" x2="271.67905981525803" y1="-49.600850760886395" y2="-45.2833782567275">
+     <title>
+      1c11af9d-b074-42c6-99ff-d019e9da1c5b
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.85431714707784" x2="271.67905981525803" y1="-35.90601277432297" y2="-45.2833782567275">
+     <title>
+      de1f9ce6-8d4d-4b33-85d7-5eb8c8318c2f
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="268.48193794873157" x2="278.46413081655527" y1="-55.624947373679326" y2="-59.79122767192308">
+     <title>
+      155057dc-41be-46a4-96be-e4a477abd5f8
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.5869371276435" x2="278.46413081655527" y1="-70.4410312173087" y2="-59.79122767192308">
+     <title>
+      b12a2831-23f6-4cbc-9bea-93b7def6d7ce
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="288.9507156769518" x2="278.46413081655527" y1="-62.81133981161667" y2="-59.79122767192308">
+     <title>
+      aff8de95-0861-4cc6-8354-def5f679eee9
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="281.70822113204855" x2="278.46413081655527" y1="-49.600850760886395" y2="-59.79122767192308">
+     <title>
+      02dbe833-fa0f-4f9f-9f1a-f76646fb92bb
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.5869371276435" x2="286.96887065659195" y1="-70.4410312173087" y2="-73.38769966145655">
+     <title>
+      7fbd4d0e-d926-4f5f-8346-f6581764ce34
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="285.5397712941722" x2="286.96887065659195" y1="-84.0971502255504" y2="-73.38769966145655">
+     <title>
+      eaee3dad-b3ad-41b4-a26b-fb3dea9a7f6f
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="297.58738145366556" x2="286.96887065659195" y1="-75.89227195649862" y2="-73.38769966145655">
+     <title>
+      a90ca90c-1697-4034-92b6-2b9e1a5acc6f
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="288.9507156769518" x2="286.96887065659195" y1="-62.81133981161667" y2="-73.38769966145655">
+     <title>
+      823ada65-6ca3-4243-8dc4-b09a409063c5
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="285.5397712941722" x2="296.02565986554373" y1="-84.0971502255504" y2="-86.55532433350896">
+     <title>
+      d72688a8-9a16-4383-b635-2045bfff50b7
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="294.35911295921" x2="296.02565986554373" y1="-97.23287116758426" y2="-86.55532433350896">
+     <title>
+      2deb02db-6829-42e6-adde-75b73d89a5a0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="306.5944376179042" x2="296.02565986554373" y1="-89.1877068719636" y2="-86.55532433350896">
+     <title>
+      2ae641ba-b4ee-447e-897f-b997d47aee6f
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="297.58738145366556" x2="296.02565986554373" y1="-75.89227195649862" y2="-86.55532433350896">
+     <title>
+      3cbea95a-5441-4884-94bb-37fcac76b026
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="294.35911295921" x2="304.77898633864265" y1="-97.23287116758426" y2="-99.81580268607702">
+     <title>
+      b928a9a1-86fa-45f5-b928-e869ce3d78f8
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="302.2104851515378" x2="304.77898633864265" y1="-110.34177985023146" y2="-99.81580268607702">
+     <title>
+      f7f232d1-9aad-4163-b499-5d6b5b33899d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="315.39455046216057" x2="304.77898633864265" y1="-102.81522546582268" y2="-99.81580268607702">
+     <title>
+      d678c966-bd4e-4472-87c7-106dcbb2acd4
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="306.5944376179042" x2="304.77898633864265" y1="-89.1877068719636" y2="-99.81580268607702">
+     <title>
+      6b3c9427-041d-4835-8521-c3d6aef517b0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="47.65328492043966" x2="36.814831100505785" y1="247.2715227765753" y2="247.1546240805087">
+     <title>
+      6e36994a-f4da-496e-80ec-47c3013d1fff
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="36.53265068915125" x2="36.814831100505785" y1="257.8454376773116" y2="247.1546240805087">
+     <title>
+      00f1df39-5606-4054-a2a4-781603e974fa
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="26.091191478215347" x2="36.814831100505785" y1="247.0222096304821" y2="247.1546240805087">
+     <title>
+      759d3888-75bb-4fef-830e-d27ba5c7874a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="37.02887694392891" x2="36.814831100505785" y1="236.28449969778868" y2="247.1546240805087">
+     <title>
+      5b73651b-9a52-4107-a16b-25610ef03866
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="36.53265068915125" x2="25.742211486674783" y1="257.8454376773116" y2="257.80356002879995">
+     <title>
+      8234fead-8d4b-4dc4-853f-4ed95de18a5b
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="25.45430577096097" x2="25.742211486674783" y1="268.61593445176874" y2="257.80356002879995">
+     <title>
+      98dbcbaf-8105-493d-be6f-809f22103024
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="14.8927680449502" x2="25.742211486674783" y1="257.7053928474214" y2="257.80356002879995">
+     <title>
+      4d69069e-99bb-47b6-b629-eb9abfeea5a5
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="26.091191478215347" x2="25.742211486674783" y1="247.0222096304821" y2="257.80356002879995">
+     <title>
+      dcf653ac-c71f-4413-8fe9-27c6394b593c
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="111.27954354328799" x2="122.09976505201169" y1="162.09921125529465" y2="161.9956469406199">
+     <title>
+      896f6afb-06e1-46c6-ad41-b051cec1a43b
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="122.22312920364196" x2="122.09976505201169" y1="151.29297808711652" y2="161.9956469406199">
+     <title>
+      4bb48975-c0b7-494d-818b-fd1eb2bb949d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="132.87836660431267" x2="122.09976505201169" y1="161.95338867595413" y2="161.9956469406199">
+     <title>
+      3c5a7ae6-7328-493f-b3d0-3b4db3db260d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="122.12035490310843" x2="122.09976505201169" y1="172.83440046601595" y2="161.9956469406199">
+     <title>
+      ddc1302e-8169-4b63-b5db-8598c0761ec3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="122.22312920364196" x2="133.048706469445" y1="151.29297808711652" y2="151.14105850355367">
+     <title>
+      18f06a6a-8ca7-44c4-bb25-93f355c26f60
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="133.00345925997559" x2="133.048706469445" y1="140.43996291779027" y2="151.14105850355367">
+     <title>
+      db302a06-a11c-4f95-a537-1b9136ad2432
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="143.8384994634266" x2="133.048706469445" y1="150.81820831867805" y2="151.14105850355367">
+     <title>
+      c4e3439c-f101-45db-805a-38c26a39fa19
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="132.87836660431267" x2="133.048706469445" y1="161.95338867595413" y2="151.14105850355367">
+     <title>
+      f98482f3-25d6-42b0-a824-f5c2fc303226
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="133.00345925997559" x2="143.81965830165632" y1="140.43996291779027" y2="140.01330630434873">
+     <title>
+      34f8f9c8-115e-4a12-bb2c-a72bb3e2d391
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="143.4280705376012" x2="143.81965830165632" y1="129.2789971823192" y2="140.01330630434873">
+     <title>
+      135ab800-3820-46a7-b04f-aa57c1541e2d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="154.55410170315102" x2="143.81965830165632" y1="139.1260993855922" y2="140.01330630434873">
+     <title>
+      b2f06043-e8f8-41f0-beb0-ed7f9847433a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="143.8384994634266" x2="143.81965830165632" y1="150.81820831867805" y2="140.01330630434873">
+     <title>
+      403fe1ec-1943-4bf9-a463-7db82890b5ac
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="143.4280705376012" x2="154.2014759971836" y1="129.2789971823192" y2="128.24500233383625">
+     <title>
+      7733f424-4e5e-4e93-9633-1c4b4fe967ec
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="153.06144372606465" x2="154.2014759971836" y1="117.47465294899281" y2="128.24500233383625">
+     <title>
+      0197f1f4-2ff7-496e-b651-fd28b75e85a7
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="165.09423941507188" x2="154.2014759971836" y1="126.58763159545862" y2="128.24500233383625">
+     <title>
+      fd0e2a75-ff4c-43f7-af56-8369b462576a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="154.55410170315102" x2="154.2014759971836" y1="139.1260993855922" y2="128.24500233383625">
+     <title>
+      68ea3157-ddb2-4cc1-a0a7-c9b5d7d3fe83
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="191.7015381794913" x2="202.42162301946308" y1="64.68876871383337" y2="62.632431569628345">
+     <title>
+      a924e7d0-3a30-45d8-a085-839768679809
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="202.4090547052504" x2="202.42162301946308" y1="51.746807083804825" y2="62.632431569628345">
+     <title>
+      ab570945-df8e-4f1e-a44f-95b427d624ac
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="213.21439370542961" x2="202.42162301946308" y1="61.25031314604506" y2="62.632431569628345">
+     <title>
+      c3e6b080-8553-4294-ab25-d3293d7f8da3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="203.8989590345975" x2="202.42162301946308" y1="73.54010714608289" y2="62.632431569628345">
+     <title>
+      643b2321-9ab9-472e-9bac-085bc170efa2
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="202.4090547052504" x2="213.2965399466472" y1="51.746807083804825" y2="50.35176574075335">
+     <title>
+      ca629a6e-7719-4efd-829d-08c5e6e0d107
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="215.37941404714155" x2="213.2965399466472" y1="39.7212803346689" y2="50.35176574075335">
+     <title>
+      4a68f13a-4889-4205-b9d6-b48be597c0e9
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="224.00805552821203" x2="213.2965399466472" y1="51.507353529154436" y2="50.35176574075335">
+     <title>
+      76cb8d9b-f659-47a3-b84a-c3e6d64ef388
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="213.21439370542961" x2="213.2965399466472" y1="61.25031314604506" y2="50.35176574075335">
+     <title>
+      212e05c3-e9fc-42ba-8919-3c91fb1528a0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="215.37941404714155" x2="226.3111965461093" y1="39.7212803346689" y2="41.02892040267691">
+     <title>
+      3b3732b1-2a8a-4dfe-a097-e3b08c11192e
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="231.53721108927306" x2="226.3111965461093" y1="30.559002847846955" y2="41.02892040267691">
+     <title>
+      453e5844-3ae8-4dfa-8646-605c4b341b88
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="235.56856566459018" x2="226.3111965461093" y1="44.91880242525644" y2="41.02892040267691">
+     <title>
+      fb57fcfd-a8f8-48cb-a499-0ef5d45616d0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="224.00805552821203" x2="226.3111965461093" y1="51.507353529154436" y2="41.02892040267691">
+     <title>
+      85bdb61e-665e-4f9e-b10d-e7ce91918731
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="302.2104851515378" x2="316.5213508657892" y1="-110.34177985023146" y2="-120.05541237619222">
+     <title>
+      300db742-06e1-49ce-9ae8-cf85dfbc88a5
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="302.2104851515378" x2="324.9807011597553" y1="-110.34177985023146" y2="-135.71226115096331">
+     <title>
+      8d081c23-3c1f-4198-9d2c-2670e0463199
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="299.609253639097" x2="316.5213508657892" y1="-125.39062628774535" y2="-120.05541237619222">
+     <title>
+      c9411c0a-194d-4048-989f-458c71ea4a88
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="299.609253639097" x2="333.76016008880435" y1="-125.39062628774535" y2="-123.27245682368076">
+     <title>
+      e8403ac5-32b0-4d2b-81fe-53b3490df871
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="309.7079212030584" x2="316.5213508657892" y1="-136.82282664848026" y2="-120.05541237619222">
+     <title>
+      63c16af0-32f7-4151-bdcd-e5a61f68c72d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="309.7079212030584" x2="329.7578051616867" y1="-136.82282664848026" y2="-108.7505752136932">
+     <title>
+      909820d9-58a8-44fc-ae88-847483552a2c
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="324.9807011597553" x2="316.5213508657892" y1="-135.71226115096331" y2="-120.05541237619222">
+     <title>
+      1b917c98-fc1d-4dab-a447-8168aea45b07
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="324.9807011597553" x2="315.39455046216057" y1="-135.71226115096331" y2="-102.81522546582268">
+     <title>
+      fc42b257-c319-45ce-858c-6c366336091e
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="333.76016008880435" x2="316.5213508657892" y1="-123.27245682368076" y2="-120.05541237619222">
+     <title>
+      f30d6970-0bf1-4951-8bcb-2fd354346667
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="333.76016008880435" x2="302.2104851515378" y1="-123.27245682368076" y2="-110.34177985023146">
+     <title>
+      46adf31c-b430-42c8-9261-12b0f69d26f5
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="329.7578051616867" x2="316.5213508657892" y1="-108.7505752136932" y2="-120.05541237619222">
+     <title>
+      ffe09dd2-fd87-4c4e-8950-32b33a8aff90
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="329.7578051616867" x2="299.609253639097" y1="-108.7505752136932" y2="-125.39062628774535">
+     <title>
+      f9a2083c-1102-40f5-9cbf-988ce145f1d8
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="315.39455046216057" x2="316.5213508657892" y1="-102.81522546582268" y2="-120.05541237619222">
+     <title>
+      9234c24f-5726-4bae-873a-dafc1cfae481
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="315.39455046216057" x2="309.7079212030584" y1="-102.81522546582268" y2="-136.82282664848026">
+     <title>
+      40f6a911-34d2-4519-b576-d04811a05761
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="25.45430577096097" x2="10.855113014253467" y1="268.61593445176874" y2="272.222942650275">
+     <title>
+      36f14ce8-f75f-4dee-a284-dc5d003eedb3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="25.45430577096097" x2="-3.8119473588103334" y1="268.61593445176874" y2="276.03194587314835">
+     <title>
+      503d8888-c7ac-4d85-a554-89d0a26378fc
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="21.36837198681903" x2="10.855113014253467" y1="283.2127502396348" y2="272.222942650275">
+     <title>
+      730a011d-2670-409a-8c3c-8b63272e0e1e
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="21.36837198681903" x2="0.09949575695048224" y1="283.2127502396348" y2="261.5014276656886">
+     <title>
+      88d3e31a-0ad8-4f07-8b30-414f8183d659
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="6.778806826251328" x2="10.855113014253467" y1="286.866944064228" y2="272.222942650275">
+     <title>
+      60e69f10-de5f-4426-9a47-906e8b8ba4c7
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="6.778806826251328" x2="14.8927680449502" y1="286.866944064228" y2="257.7053928474214">
+     <title>
+      6f4630f0-468b-4c52-8fca-f5d0364fd285
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="-3.8119473588103334" x2="10.855113014253467" y1="276.03194587314835" y2="272.222942650275">
+     <title>
+      594c7bbf-2d72-47de-b416-840da311f051
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="-3.8119473588103334" x2="25.45430577096097" y1="276.03194587314835" y2="268.61593445176874">
+     <title>
+      396487be-732e-4e9f-aa01-29992bbeecdd
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="0.09949575695048224" x2="10.855113014253467" y1="261.5014276656886" y2="272.222942650275">
+     <title>
+      7a2765d3-a01c-4f1b-8f2e-b18686d80372
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="0.09949575695048224" x2="21.36837198681903" y1="261.5014276656886" y2="283.2127502396348">
+     <title>
+      663a9b84-94e9-4612-8908-96ceaeb26ff4
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="14.8927680449502" x2="10.855113014253467" y1="257.7053928474214" y2="272.222942650275">
+     <title>
+      af7e426b-8fde-4b39-9718-c2d2fa6d968a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="14.8927680449502" x2="6.778806826251328" y1="257.7053928474214" y2="286.866944064228">
+     <title>
+      3897770d-7976-44b2-b2c0-b90552a1537e
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="153.06144372606465" x2="178.54892333454518" y1="117.47465294899281" y2="95.59267002693916">
+     <title>
+      b70e69f1-4c16-4a2c-a65d-589fa1ae5672
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="153.06144372606465" x2="203.8989590345975" y1="117.47465294899281" y2="73.54010714608289">
+     <title>
+      21d97292-5ff9-4caf-99ab-b97edaaa1a60
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="145.80622156444437" x2="178.54892333454518" y1="104.13502768030533" y2="95.59267002693916">
+     <title>
+      0101acbf-2dfd-47e6-939d-118e2deecfc0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="145.80622156444437" x2="211.14231572960068" y1="104.13502768030533" y2="87.11662103888335">
+     <title>
+      c21df5a2-d427-40d5-8e19-72ae780a1c3b
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="145.25278952392546" x2="178.54892333454518" y1="89.23260661084883" y2="95.59267002693916">
+     <title>
+      ea6e42e3-4f9b-4885-8939-2f863fde03f9
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="145.25278952392546" x2="211.74345227650636" y1="89.23260661084883" y2="101.98927241256317">
+     <title>
+      1714d22e-6e82-4f5a-8d55-3cfc541701d2
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="151.15911798097247" x2="178.54892333454518" y1="75.47981493919752" y2="95.59267002693916">
+     <title>
+      14bccefe-fcf2-4f69-89c1-b7d0f3e143ad
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="151.15911798097247" x2="205.77383777770515" y1="75.47981493919752" y2="115.87169480666458">
+     <title>
+      610290f1-1b01-4953-9b4b-6283f1fe642a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="162.54659972618546" x2="178.54892333454518" y1="65.70123143176947" y2="95.59267002693916">
+     <title>
+      ef5ea245-c3f4-40d7-847a-762e1191db2e
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="162.54659972618546" x2="194.3541589584127" y1="65.70123143176947" y2="125.62419553484759">
+     <title>
+      9a7bd981-b048-4d27-bb7b-088681fa3181
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="176.8013802974276" x2="178.54892333454518" y1="61.77926337386535" y2="95.59267002693916">
+     <title>
+      f18c0db2-ff64-454e-93a3-aaac5ff4e700
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="176.8013802974276" x2="180.07249396864913" y1="61.77926337386535" y2="129.44989071937084">
+     <title>
+      d132a289-6df4-41a3-9caf-3a4634ba3dc3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="191.7015381794913" x2="178.54892333454518" y1="64.68876871383337" y2="95.59267002693916">
+     <title>
+      f1da96d3-8b74-44b5-b098-20210f64cecd
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="191.7015381794913" x2="165.09423941507188" y1="64.68876871383337" y2="126.58763159545862">
+     <title>
+      40ca96d5-e483-47cd-a1a4-298d3df755e9
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="203.8989590345975" x2="178.54892333454518" y1="73.54010714608289" y2="95.59267002693916">
+     <title>
+      b7603a91-2ba6-4fad-a033-68a62f156d51
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="203.8989590345975" x2="153.06144372606465" y1="73.54010714608289" y2="117.47465294899281">
+     <title>
+      feb4e04e-e034-406e-8033-f4fb2a555619
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="211.14231572960068" x2="178.54892333454518" y1="87.11662103888335" y2="95.59267002693916">
+     <title>
+      490f9788-38f8-409d-b1a9-2b529f005c52
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="211.14231572960068" x2="145.80622156444437" y1="87.11662103888335" y2="104.13502768030533">
+     <title>
+      8cb0dc62-cd29-4fba-a2a9-cb612c69688f
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="211.74345227650636" x2="178.54892333454518" y1="101.98927241256317" y2="95.59267002693916">
+     <title>
+      80c0826d-bc4f-4cb9-86e7-10e4085e0c86
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="211.74345227650636" x2="145.25278952392546" y1="101.98927241256317" y2="89.23260661084883">
+     <title>
+      e14e1499-6c94-47bf-8fda-5c2ef589852a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="205.77383777770515" x2="178.54892333454518" y1="115.87169480666458" y2="95.59267002693916">
+     <title>
+      07b0deaa-04bd-450d-b454-8ce159a2cd5d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="205.77383777770515" x2="151.15911798097247" y1="115.87169480666458" y2="75.47981493919752">
+     <title>
+      5b1607db-d421-4d8e-8a07-54012ed439ed
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="194.3541589584127" x2="178.54892333454518" y1="125.62419553484759" y2="95.59267002693916">
+     <title>
+      da231c2b-d24e-4085-8c14-e6787f1baa17
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="194.3541589584127" x2="162.54659972618546" y1="125.62419553484759" y2="65.70123143176947">
+     <title>
+      fc8e7885-aab7-400b-99be-0ec34dcecb59
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="180.07249396864913" x2="178.54892333454518" y1="129.44989071937084" y2="95.59267002693916">
+     <title>
+      e8d5651f-db82-420d-9ad0-ce012ed4de11
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="180.07249396864913" x2="176.8013802974276" y1="129.44989071937084" y2="61.77926337386535">
+     <title>
+      ad396532-84a6-49cd-a6ef-95bb586477e4
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="165.09423941507188" x2="178.54892333454518" y1="126.58763159545862" y2="95.59267002693916">
+     <title>
+      2aad40cd-01fd-45cb-8ca2-3cebd3db9152
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="165.09423941507188" x2="191.7015381794913" y1="126.58763159545862" y2="64.68876871383337">
+     <title>
+      ddc8291d-cd5f-4df9-a454-a49ef419128b
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="231.53721108927306" x2="282.24582723878694" y1="30.559002847846955" y2="27.402466352778575">
+     <title>
+      d625efd2-4652-4fff-99f8-05df01ea1d05
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="231.53721108927306" x2="332.38401781319965" y1="30.559002847846955" y2="17.49534394791289">
+     <title>
+      cd4abb40-ea5b-4953-bbad-1a0681a556ca
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="233.11455595884598" x2="282.24582723878694" y1="15.107576230696122" y2="27.402466352778575">
+     <title>
+      8f75c93a-e784-4b58-8281-369bf7df37c3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="233.11455595884598" x2="332.41716419548624" y1="15.107576230696122" y2="32.34941147734971">
+     <title>
+      d4cffe45-f549-4bdf-8aad-d0427524594a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="239.4162996539316" x2="282.24582723878694" y1="0.7327397043366994" y2="27.402466352778575">
+     <title>
+      1e055cbc-e81a-42d3-9207-6e6db998233b
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="239.4162996539316" x2="328.95673122223417" y1="0.7327397043366994" y2="46.74801346069995">
+     <title>
+      bc5f112f-1786-4265-86b6-32cb6dad07b2
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="248.74942883573848" x2="282.24582723878694" y1="-10.622350285732054" y2="27.402466352778575">
+     <title>
+      881ba737-3c9a-420a-93dd-74fd45523e86
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="248.74942883573848" x2="321.28968998259637" y1="-10.622350285732054" y2="59.71804241472811">
+     <title>
+      0572073c-6981-4cca-ad85-3a63b06bb32a
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="261.772093884498" x2="282.24582723878694" y1="-19.33492787641698" y2="27.402466352778575">
+     <title>
+      6245843c-0dc3-47b0-ab0c-7de363d1e5e2
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="261.772093884498" x2="310.07296494458853" y1="-19.33492787641698" y2="69.55974016848864">
+     <title>
+      fb9d2f13-6982-4ac4-b1f3-ac937b8db91d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.41717321865843" x2="282.24582723878694" y1="-22.287696606989496" y2="27.402466352778575">
+     <title>
+      c1ee23fe-97be-4e9a-89d6-24845d595767
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="276.41717321865843" x2="296.4812019999953" y1="-22.287696606989496" y2="75.7277541174023">
+     <title>
+      21215d91-f553-4cfd-a762-07fcdc01c0ac
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="291.7673323190268" x2="282.24582723878694" y1="-21.520633562284168" y2="27.402466352778575">
+     <title>
+      8e79d2b7-d76a-4acf-9104-303271ce4ac2
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="291.7673323190268" x2="281.7382663550467" y1="-21.520633562284168" y2="78.22980639947247">
+     <title>
+      a5efd722-94ed-4588-a3bb-8b41be0d7e37
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="305.8364712222658" x2="282.24582723878694" y1="-16.927069903776907" y2="27.402466352778575">
+     <title>
+      b0bb4e92-dc0b-4f6d-9a9a-f3a0897b39d3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="305.8364712222658" x2="266.8603391171244" y1="-16.927069903776907" y2="75.80797225348721">
+     <title>
+      82d22644-1926-4967-a7b6-4fb0af074ca1
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="317.92007756871055" x2="282.24582723878694" y1="-8.309019930020591" y2="27.402466352778575">
+     <title>
+      6a070703-3c37-4066-9847-2a32de3b2975
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="317.92007756871055" x2="253.4283193665618" y1="-8.309019930020591" y2="69.09100088645181">
+     <title>
+      659d2dc2-1642-4d7c-a071-019cad949cfe
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="327.1037293039242" x2="282.24582723878694" y1="3.426187894834092" y2="27.402466352778575">
+     <title>
+      6e77370e-aa93-401c-b81e-a1b621167c41
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="327.1037293039242" x2="242.5481983441439" y1="3.426187894834092" y2="58.51378188632702">
+     <title>
+      5ac5c636-779e-4a33-afb4-9c9b86a3f1cc
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="332.38401781319965" x2="282.24582723878694" y1="17.49534394791289" y2="27.402466352778575">
+     <title>
+      e581866f-a476-479f-9840-83725dff68ff
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="332.38401781319965" x2="235.56856566459018" y1="17.49534394791289" y2="44.91880242525644">
+     <title>
+      6d841ee0-c6be-4a6a-8fbc-b1fe5cf414ba
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="332.41716419548624" x2="282.24582723878694" y1="32.34941147734971" y2="27.402466352778575">
+     <title>
+      c7e504fa-4529-41cd-b291-493fc37ad15d
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="332.41716419548624" x2="231.53721108927306" y1="32.34941147734971" y2="30.559002847846955">
+     <title>
+      4191ac7f-6ed3-4b35-9847-532ba9d86ea6
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="328.95673122223417" x2="282.24582723878694" y1="46.74801346069995" y2="27.402466352778575">
+     <title>
+      036b21d0-2118-4dc1-b084-6f368dc078f7
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="328.95673122223417" x2="233.11455595884598" y1="46.74801346069995" y2="15.107576230696122">
+     <title>
+      ca3542c2-a848-4d83-93ab-57af3dc40685
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="321.28968998259637" x2="282.24582723878694" y1="59.71804241472811" y2="27.402466352778575">
+     <title>
+      b3744ac7-c8de-4b95-9282-9cb9dbd32a58
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="321.28968998259637" x2="239.4162996539316" y1="59.71804241472811" y2="0.7327397043366994">
+     <title>
+      36c9fbb2-cdfa-4847-8485-2af65b114dde
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="310.07296494458853" x2="282.24582723878694" y1="69.55974016848864" y2="27.402466352778575">
+     <title>
+      644d0ef4-fd5c-4334-934e-a077a67ff6d0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="310.07296494458853" x2="248.74942883573848" y1="69.55974016848864" y2="-10.622350285732054">
+     <title>
+      dad0fe73-3f7f-41ba-9f11-6c5dd6c88943
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="296.4812019999953" x2="282.24582723878694" y1="75.7277541174023" y2="27.402466352778575">
+     <title>
+      c4b09894-6010-4dc0-9925-2dcc6684a4e8
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="296.4812019999953" x2="261.772093884498" y1="75.7277541174023" y2="-19.33492787641698">
+     <title>
+      5579a09d-4307-45bf-b311-8269d9d38a72
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="281.7382663550467" x2="282.24582723878694" y1="78.22980639947247" y2="27.402466352778575">
+     <title>
+      c59e1097-e917-4246-a472-89f630eafab5
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="281.7382663550467" x2="276.41717321865843" y1="78.22980639947247" y2="-22.287696606989496">
+     <title>
+      585d418c-2ec1-4638-b4b2-0b45acc026da
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="266.8603391171244" x2="282.24582723878694" y1="75.80797225348721" y2="27.402466352778575">
+     <title>
+      3869cc06-5325-4066-8683-2c33c369c2b0
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="266.8603391171244" x2="291.7673323190268" y1="75.80797225348721" y2="-21.520633562284168">
+     <title>
+      51d60d89-bf39-488b-8284-6b5a834fa383
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="253.4283193665618" x2="282.24582723878694" y1="69.09100088645181" y2="27.402466352778575">
+     <title>
+      45e8cd80-fd12-4012-871d-b14a51603783
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="253.4283193665618" x2="305.8364712222658" y1="69.09100088645181" y2="-16.927069903776907">
+     <title>
+      725c6300-07f7-45ab-9dea-f23d6eccb4d3
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="242.5481983441439" x2="282.24582723878694" y1="58.51378188632702" y2="27.402466352778575">
+     <title>
+      3a0b87e1-5077-422b-a684-e3fe9ef323fa
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="242.5481983441439" x2="317.92007756871055" y1="58.51378188632702" y2="-8.309019930020591">
+     <title>
+      54fa6566-ab35-4878-9488-465716f038f2
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="235.56856566459018" x2="282.24582723878694" y1="44.91880242525644" y2="27.402466352778575">
+     <title>
+      9b9bd0ae-f802-4a0d-b22d-d85bb76445cc
+     </title>
+    </line>
+    <line class="link fake transparent" link_type="fake" pointer-events="none" x1="235.56856566459018" x2="327.1037293039242" y1="44.91880242525644" y2="3.426187894834092">
+     <title>
+      3ca1f699-b230-4d5f-bca0-068b0c5648b0
+     </title>
+    </line>
+   </g>
+   <g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(134.44870265663343,239.42673571126258)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:1
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:1
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(125.85933096679312,252.01043830635257)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:2
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:2
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(111.21584328160044,257.1105797802672)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:3
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      T
+      <title>
+       name:3
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(95.3711099774576,256.8975300641554)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:4
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:4
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(79.39530164613613,254.2533921019955)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:5
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:5
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(63.2678892487689,250.4995407623044)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:6
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:6
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(47.65328492043966,247.2715227765753)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:7
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:7
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(36.53265068915125,257.8454376773116)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:8
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:8
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(25.45430577096097,268.61593445176874)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:9
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      T
+      <title>
+       name:9
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(21.36837198681903,283.2127502396348)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:10
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      T
+      <title>
+       name:10
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(6.778806826251328,286.866944064228)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:11
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:11
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(-3.8119473588103334,276.03194587314835)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:12
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:12
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(0.09949575695048224,261.5014276656886)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:13
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:13
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(14.8927680449502,257.7053928474214)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:14
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:14
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(26.091191478215347,247.0222096304821)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:15
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:15
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(37.02887694392891,236.28449969778868)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:16
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:16
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(35.28842800551696,219.70560291983168)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:17
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:17
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(33.55501374949794,203.27853820626925)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:18
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:18
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(32.74048652021415,187.04724660217138)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:19
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:19
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(35.546602136747296,171.4648634575841)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:20
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:20
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(47.42646303050037,160.96137503628947)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:21
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:21
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(62.818821809665934,156.82738288868788)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:22
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:22
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(79.08762510588399,156.8781683058305)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:23
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:23
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(95.51732828499756,159.44562762812126)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:24
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:24
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(111.27954354328799,162.09921125529465)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:25
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:25
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(122.22312920364196,151.29297808711652)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:26
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:26
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(133.00345925997559,140.43996291779027)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:27
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:27
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(143.4280705376012,129.2789971823192)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:28
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:28
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(153.06144372606465,117.47465294899281)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:29
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:29
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(145.80622156444437,104.13502768030533)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:30
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:30
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(145.25278952392546,89.23260661084883)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:31
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:31
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(151.15911798097247,75.47981493919752)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:32
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:32
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(162.54659972618546,65.70123143176947)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:33
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:33
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(176.8013802974276,61.77926337386535)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:34
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:34
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(191.7015381794913,64.68876871383337)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:35
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:35
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(202.4090547052504,51.746807083804825)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:36
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:36
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(215.37941404714155,39.7212803346689)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:37
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:37
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(231.53721108927306,30.559002847846955)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:38
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:38
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(233.11455595884598,15.107576230696122)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #F2F2FF;">
+      <title>
+       name:39
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:39
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(239.4162996539316,0.7327397043366994)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #E0E0FF;">
+      <title>
+       name:40
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:40
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(248.74942883573848,-10.622350285732054)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #D2D2FF;">
+      <title>
+       name:41
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:41
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(261.772093884498,-19.33492787641698)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF9696;">
+      <title>
+       name:42
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:42
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(263.02726912515016,-38.62300537363018)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF9A9A;">
+      <title>
+       name:43
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:43
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(268.48193794873157,-55.624947373679326)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF8282;">
+      <title>
+       name:44
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:44
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(276.5869371276435,-70.4410312173087)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF8282;">
+      <title>
+       name:45
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:45
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(285.5397712941722,-84.0971502255504)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF8E8E;">
+      <title>
+       name:46
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:46
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(294.35911295921,-97.23287116758426)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFB4B4;">
+      <title>
+       name:47
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:47
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(302.2104851515378,-110.34177985023146)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #9696FF;">
+      <title>
+       name:48
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:48
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(299.609253639097,-125.39062628774535)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FEFEFF;">
+      <title>
+       name:49
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:49
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(309.7079212030584,-136.82282664848026)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFF0F0;">
+      <title>
+       name:50
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:50
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(324.9807011597553,-135.71226115096331)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFD4D4;">
+      <title>
+       name:51
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:51
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(333.76016008880435,-123.27245682368076)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #D8D8FF;">
+      <title>
+       name:52
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:52
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(329.7578051616867,-108.7505752136932)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #7878FF;">
+      <title>
+       name:53
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:53
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(315.39455046216057,-102.81522546582268)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #2A2AFF;">
+      <title>
+       name:54
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:54
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(306.5944376179042,-89.1877068719636)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFB0B0;">
+      <title>
+       name:55
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:55
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(297.58738145366556,-75.89227195649862)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF8E8E;">
+      <title>
+       name:56
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:56
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(288.9507156769518,-62.81133981161667)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF8484;">
+      <title>
+       name:57
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:57
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(281.70822113204855,-49.600850760886395)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FF9090;">
+      <title>
+       name:58
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:58
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(276.85431714707784,-35.90601277432297)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFB8B8;">
+      <title>
+       name:59
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:59
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(276.41717321865843,-22.287696606989496)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFDCDC;">
+      <title>
+       name:60
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:60
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(291.7673323190268,-21.520633562284168)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:61
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:61
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(305.8364712222658,-16.927069903776907)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #F6F6FF;">
+      <title>
+       name:62
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:62
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(317.92007756871055,-8.309019930020591)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFF6F6;">
+      <title>
+       name:63
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:63
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(327.1037293039242,3.426187894834092)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FAFAFF;">
+      <title>
+       name:64
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:64
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(332.38401781319965,17.49534394791289)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #EAEAFF;">
+      <title>
+       name:65
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:65
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(332.41716419548624,32.34941147734971)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #F6F6FF;">
+      <title>
+       name:66
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:66
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(328.95673122223417,46.74801346069995)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #F8F8FF;">
+      <title>
+       name:67
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:67
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(321.28968998259637,59.71804241472811)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #F8F8FF;">
+      <title>
+       name:68
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:68
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(310.07296494458853,69.55974016848864)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #F0F0FF;">
+      <title>
+       name:69
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:69
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(296.4812019999953,75.7277541174023)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FCFCFF;">
+      <title>
+       name:70
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:70
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(281.7382663550467,78.22980639947247)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:71
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:71
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(266.8603391171244,75.80797225348721)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:72
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:72
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(253.4283193665618,69.09100088645181)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:73
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:73
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(242.5481983441439,58.51378188632702)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:74
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:74
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(235.56856566459018,44.91880242525644)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:75
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:75
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(224.00805552821203,51.507353529154436)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:76
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:76
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(213.21439370542961,61.25031314604506)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:77
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:77
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(203.8989590345975,73.54010714608289)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:78
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:78
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(211.14231572960068,87.11662103888335)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:79
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      U
+      <title>
+       name:79
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(211.74345227650636,101.98927241256317)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:80
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:80
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(205.77383777770515,115.87169480666458)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:81
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:81
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(194.3541589584127,125.62419553484759)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:82
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:82
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(180.07249396864913,129.44989071937084)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:83
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:83
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(165.09423941507188,126.58763159545862)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:84
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:84
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(154.55410170315102,139.1260993855922)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:85
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      T
+      <title>
+       name:85
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(143.8384994634266,150.81820831867805)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:86
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:86
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(132.87836660431267,161.95338867595413)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:87
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      T
+      <title>
+       name:87
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(122.12035490310843,172.83440046601595)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:88
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      G
+      <title>
+       name:88
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(126.78286530304115,187.71531596025895)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:89
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      A
+      <title>
+       name:89
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(134.78659975103648,200.78554564855278)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node" node_type="nucleotide" r="6" style="fill: #FFFEFE;">
+      <title>
+       name:90
+      </title>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="nucleotide" text-anchor="middle" y="2.5">
+      C
+      <title>
+       name:90
+      </title>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(30.041788597011664,295.8636701566982)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      10
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(25.299529614607657,160.15369745178265)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      20
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(131.88799114608494,97.53957504733987)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      30
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(225.46463362852154,-6.203279760815343)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      40
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(303.6858349942838,-150.95549535754867)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      50
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(287.8804160328598,-32.11363728913473)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      60
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(290.79547947175587,61.94676440452818)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      70
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(222.60238593687424,113.22262914999786)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      80
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" struct_name="name" transform="translate(149.83607199305166,202.83147311976788)">
+     <circle class="outline_node" r="7"/>
+     <circle class="node label" node_type="label" r="6">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="label" text-anchor="middle" y="2.5">
+      90
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(268.72630851243326,-28.818051289187082)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(271.67905981525803,-45.2833782567275)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(278.46413081655527,-59.79122767192308)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(286.96887065659195,-73.38769966145655)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(296.02565986554373,-86.55532433350896)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(304.77898633864265,-99.81580268607702)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(36.814831100505785,247.1546240805087)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(25.742211486674783,257.80356002879995)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(122.09976505201169,161.9956469406199)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(133.048706469445,151.14105850355367)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(143.81965830165632,140.01330630434873)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(154.2014759971836,128.24500233383625)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(202.42162301946308,62.632431569628345)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(213.2965399466472,50.35176574075335)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(226.3111965461093,41.02892040267691)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(316.5213508657892,-120.05541237619222)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(10.855113014253467,272.222942650275)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(178.54892333454518,95.59267002693916)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+    <g class="noselect gnode" r="6.5" transform="translate(282.24582723878694,27.402466352778575)">
+     <circle class="node" node_type="middle" r="0">
+      <title/>
+     </circle>
+     <text class="node-label" font-size="8" font-weight="bold" label_type="middle" text-anchor="middle" y="2.5">
+      <title/>
+     </text>
+    </g>
+   </g>
+   <line class="drag_line" x1="0" x2="0" y1="0" y2="0"/>
+  </g>
+ </g>
+</svg>
