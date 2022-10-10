@@ -27,3 +27,4 @@ The preprocessed datasets are provided in the "data" folder. Moreover, a trained
 
 # Citation
 Please cite: Liao SE, Sudarshan M, and Regev O. Machine learning for discovery: deciphering RNA splicing logic. In submission.
+https://www.biorxiv.org/content/10.1101/2022.10.01.510472v1
