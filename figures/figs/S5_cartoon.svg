@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="400" viewBox="-250.0 -100.0 500 200">
+<defs>
+</defs>
+<path d="M0,0 L0,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M20,0 L20,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M40,0 L40,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M60,0 L60,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M80,0 L80,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M100,0 L100,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M-14.0,-14.0 L0,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M0,0 L20,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M20,0 L40,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M40,0 L60,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M60,0 L80,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M80,0 L100,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M100,0 L120.12461179749812,-7.119017293312766" fill="none" stroke="black" stroke-width="2" />
+<path d="M120.12461179749812,-7.119017293312766 L132.56230589874906,9.999999999999998" fill="none" stroke="black" stroke-width="2" />
+<path d="M132.56230589874906,9.999999999999998 L120.12461179749812,27.119017293312762" fill="none" stroke="black" stroke-width="2" />
+<path d="M120.12461179749812,27.119017293312762 L100,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M100,20 L80,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M80,20 L60,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M60,20 L40,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M40,20 L20,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M20,20 L0,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M0,20 L-14.0,34.0" fill="none" stroke="black" stroke-width="2" />
+<circle cx="-14.0" cy="-14.0" r="8" fill="#C6C6FF" stroke-width="2" stroke="black" />
+<text x="-18.7" y="-10.0" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="0" cy="0" r="8" fill="#FFF6F6" stroke-width="2" stroke="black" />
+<text x="-4.5" y="4" font-size="11" fill="black" font-weight="bold">U</text>
+<circle cx="20" cy="0" r="8" fill="#FF7C7C" stroke-width="2" stroke="black" />
+<text x="15.3" y="4" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="40" cy="0" r="8" fill="#FF6868" stroke-width="2" stroke="black" />
+<text x="35.3" y="4" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="60" cy="0" r="8" fill="#FF4E4E" stroke-width="2" stroke="black" />
+<text x="55.3" y="4" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="80" cy="0" r="8" fill="#FF9494" stroke-width="2" stroke="black" />
+<text x="75.3" y="4" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="100" cy="0" r="8" fill="#6464FF" stroke-width="2" stroke="black" />
+<text x="95.5" y="4" font-size="11" fill="black" font-weight="bold">U</text>
+<circle cx="120.12461179749812" cy="-7.119017293312766" r="8" fill="#FFCACA" stroke-width="2" stroke="black" />
+<text x="115.62461179749812" y="-3.1190172933127656" font-size="11" fill="black" font-weight="bold">U</text>
+<circle cx="132.56230589874906" cy="9.999999999999998" r="8" fill="#FFCECE" stroke-width="2" stroke="black" />
+<text x="128.26230589874905" y="13.999999999999998" font-size="11" fill="black" font-weight="bold">A</text>
+<circle cx="120.12461179749812" cy="27.119017293312762" r="8" fill="#FFFEFE" stroke-width="2" stroke="black" />
+<text x="115.82461179749812" y="31.119017293312762" font-size="11" fill="black" font-weight="bold">A</text>
+<circle cx="100" cy="20" r="8" fill="#BABAFF" stroke-width="2" stroke="black" />
+<text x="95.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="80" cy="20" r="8" fill="#FF9090" stroke-width="2" stroke="black" />
+<text x="75.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="60" cy="20" r="8" fill="#FFA2A2" stroke-width="2" stroke="black" />
+<text x="55.3" y="24" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="40" cy="20" r="8" fill="#FF7272" stroke-width="2" stroke="black" />
+<text x="35.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="20" cy="20" r="8" fill="#FF8C8C" stroke-width="2" stroke="black" />
+<text x="15.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="0" cy="20" r="8" fill="#FFF6F6" stroke-width="2" stroke="black" />
+<text x="-4.3" y="24" font-size="11" fill="black" font-weight="bold">A</text>
+<circle cx="-14.0" cy="34.0" r="8" fill="#CACAFF" stroke-width="2" stroke="black" />
+<text x="-18.7" y="38.0" font-size="11" fill="black" font-weight="bold">C</text>
+</svg>

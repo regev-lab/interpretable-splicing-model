@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="400" viewBox="-250.0 -100.0 500 200">
+<defs>
+</defs>
+<path d="M0,0 L0,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M20,0 L20,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M40,0 L40,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M60,0 L60,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M80,0 L80,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M100,0 L100,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M120,0 L120,20" fill="none" stroke="#ff4e4e" stroke-width="2" />
+<path d="M-14.0,-14.0 L0,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M0,0 L20,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M20,0 L40,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M40,0 L60,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M60,0 L80,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M80,0 L100,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M100,0 L120,0" fill="none" stroke="black" stroke-width="2" />
+<path d="M120,0 L135.6043024807604,-12.423341980181942" fill="none" stroke="black" stroke-width="2" />
+<path d="M135.6043024807604,-12.423341980181942 L155.0625494045065,-7.982124096764689" fill="none" stroke="black" stroke-width="2" />
+<path d="M155.0625494045065,-7.982124096764689 L163.72228396175564,9.999999999999996" fill="none" stroke="black" stroke-width="2" />
+<path d="M163.72228396175564,9.999999999999996 L155.0625494045065,27.982124096764682" fill="none" stroke="black" stroke-width="2" />
+<path d="M155.0625494045065,27.982124096764682 L135.60430248076042,32.423341980181945" fill="none" stroke="black" stroke-width="2" />
+<path d="M135.60430248076042,32.423341980181945 L120,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M120,20 L100,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M100,20 L80,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M80,20 L60,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M60,20 L40,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M40,20 L20,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M20,20 L0,20" fill="none" stroke="black" stroke-width="2" />
+<path d="M0,20 L-14.0,34.0" fill="none" stroke="black" stroke-width="2" />
+<circle cx="-14.0" cy="-14.0" r="8" fill="#D2D2FF" stroke-width="2" stroke="black" />
+<text x="-18.7" y="-10.0" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="0" cy="0" r="8" fill="#FF9696" stroke-width="2" stroke="black" />
+<text x="-4.7" y="4" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="20" cy="0" r="8" fill="#FF9A9A" stroke-width="2" stroke="black" />
+<text x="15.3" y="4" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="40" cy="0" r="8" fill="#FF8282" stroke-width="2" stroke="black" />
+<text x="35.3" y="4" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="60" cy="0" r="8" fill="#FF8282" stroke-width="2" stroke="black" />
+<text x="55.3" y="4" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="80" cy="0" r="8" fill="#FF8E8E" stroke-width="2" stroke="black" />
+<text x="75.3" y="4" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="100" cy="0" r="8" fill="#FFB4B4" stroke-width="2" stroke="black" />
+<text x="95.3" y="4" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="120" cy="0" r="8" fill="#9696FF" stroke-width="2" stroke="black" />
+<text x="115.3" y="4" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="135.6043024807604" cy="-12.423341980181942" r="8" fill="#FEFEFF" stroke-width="2" stroke="black" />
+<text x="131.30430248076038" y="-8.423341980181942" font-size="11" fill="black" font-weight="bold">A</text>
+<circle cx="155.0625494045065" cy="-7.982124096764689" r="8" fill="#FFF0F0" stroke-width="2" stroke="black" />
+<text x="150.36254940450652" y="-3.9821240967646894" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="163.72228396175564" cy="9.999999999999996" r="8" fill="#FFD4D4" stroke-width="2" stroke="black" />
+<text x="159.42228396175562" y="13.999999999999996" font-size="11" fill="black" font-weight="bold">A</text>
+<circle cx="155.0625494045065" cy="27.982124096764682" r="8" fill="#D8D8FF" stroke-width="2" stroke="black" />
+<text x="150.36254940450652" y="31.982124096764682" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="135.60430248076042" cy="32.423341980181945" r="8" fill="#7878FF" stroke-width="2" stroke="black" />
+<text x="131.3043024807604" y="36.423341980181945" font-size="11" fill="black" font-weight="bold">A</text>
+<circle cx="120" cy="20" r="8" fill="#2A2AFF" stroke-width="2" stroke="black" />
+<text x="115.5" y="24" font-size="11" fill="black" font-weight="bold">U</text>
+<circle cx="100" cy="20" r="8" fill="#FFB0B0" stroke-width="2" stroke="black" />
+<text x="95.3" y="24" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="80" cy="20" r="8" fill="#FF8E8E" stroke-width="2" stroke="black" />
+<text x="75.3" y="24" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="60" cy="20" r="8" fill="#FF8484" stroke-width="2" stroke="black" />
+<text x="55.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="40" cy="20" r="8" fill="#FF9090" stroke-width="2" stroke="black" />
+<text x="35.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="20" cy="20" r="8" fill="#FFB8B8" stroke-width="2" stroke="black" />
+<text x="15.3" y="24" font-size="11" fill="black" font-weight="bold">G</text>
+<circle cx="0" cy="20" r="8" fill="#FFDCDC" stroke-width="2" stroke="black" />
+<text x="-4.7" y="24" font-size="11" fill="black" font-weight="bold">C</text>
+<circle cx="-14.0" cy="34.0" r="8" fill="#FFFEFE" stroke-width="2" stroke="black" />
+<text x="-18.7" y="38.0" font-size="11" fill="black" font-weight="bold">C</text>
+</svg>
